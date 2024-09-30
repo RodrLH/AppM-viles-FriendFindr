@@ -1,4 +1,4 @@
-package com.example.app_replica_friendfindr
+package com.example.app_replica_friendfindr.activities
 
 import android.annotation.SuppressLint
 import android.content.Intent
